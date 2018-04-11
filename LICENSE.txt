@@ -1,4 +1,4 @@
 print('tianle xinzeng  de  file')
 i am a boy
 i am a girl
-i like he
+i like i
